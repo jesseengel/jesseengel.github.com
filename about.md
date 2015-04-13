@@ -4,27 +4,20 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Thanks for visiting. Check out some of my other things</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I’m a musician and scientist now working at Baidu Research on speech recognition with neural networks.
+I have a UC Berkeley cubed degree (BA Physics, PhD Materials Science, Postdoc Computational Neuroscience) and also did half of my postdoc at Stanford with Prof. Philip Wong.
+I’ve been wanting to build a website for a *while* and now I have it.
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Other sites
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Here’s a list:
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
+* Some of my music can be found on my [Bandcamp](http://jesseengel.bandcamp.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* Projects I’ve coded can be found on my [Github](http://github.com/jesseengel), account
+* I like reading [CDM](http://createdigitalmusic.com)
 
 Thanks for reading!
