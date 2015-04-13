@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "My first post"
+date:   2015-04-11 08:29:20
+categories: jekyll update
+---
+Here is a link to my [bandcamp] website. 
+I haven’t put music up there in a while but I hope to again soon.
+Here’s a graph of data from my IEDM paper ![Capacity plot](/assets/CvsNbits.png).
+And here’s a link to the [paper](/assets/JesseEngelIEDM.pdf) itself.
+
+A python snippet:
+
+{% highlight python %}
+def cool_function(variable):
+    print variable
+cool_function('Tom')
+# A comment!
+{% endhighlight %}
+
+[bandcamp]:      http://www.jesseengel.bandcamp.com
