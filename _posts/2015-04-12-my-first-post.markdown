@@ -2,7 +2,7 @@
 layout: post
 title:  "My first post"
 date:   2015-04-11 08:29:20
-categories: jekyll update
+categories: Postdoc
 ---
 Here is a link to my [bandcamp] website. 
 I haven’t put music up there in a while but I hope to again soon.
