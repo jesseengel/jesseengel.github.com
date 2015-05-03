@@ -4,4 +4,5 @@ title:  "Welcome"
 date:   2015-04-11 08:29:20
 categories: Miscellaneous
 ---
-Welcome everyone to my website. There's not *too* much content on here right now, but I hope to put up some interesting things eventually. For now, feel free to learn more about [me](http://jesseengel.github.io/about/) and my [research](http://jesseengel.github.io/research/).
+![Brainbow](/assets/brainbow.jpg)
+Welcome everyone to my website. There's not *too* much content on here right now, but I hope to put up some interesting things eventually. For now, feel free to learn more about [me](/about/) and my [research](/research/).

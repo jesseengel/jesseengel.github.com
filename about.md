@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
+![Me](/assets/Me.jpg)
 I’m a musician and scientist now working at Baidu Research on speech recognition with neural networks.
 I have a UC Berkeley cubed degree (BA Physics, PhD Materials Science, Postdoc Computational Neuroscience) and also did half of my postdoc at Stanford with Prof. Philip Wong.
 I’ve been wanting to build a website for a *while* and now I finally got around to it.
