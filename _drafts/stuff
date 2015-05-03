@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "My first post"
+title:  "Welcome"
 date:   2015-04-11 08:29:20
-categories: Postdoc
+categories: Miscellaneous
 ---
+Welcome everyone to 
+
 Here is a link to my [bandcamp] website. 
 I haven’t put music up there in a while but I hope to again soon.
 Here’s a graph of data from my IEDM paper ![Capacity plot](/assets/CvsNbits.png).
