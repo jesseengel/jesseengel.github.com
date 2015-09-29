@@ -3,7 +3,7 @@ layout: page
 title: Music 
 ---
 
-Writing about music and stuff.
+For now, just a list of some music I've made over the years.
 
 
 
