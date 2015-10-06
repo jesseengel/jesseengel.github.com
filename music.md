@@ -27,8 +27,13 @@ For now, just a list of some music I've made over the years.
 ### Brainbow
 
 ### Laptop Love
-
-<iframe style="border: 0; width: 100%; height: 280px;" src="https://bandcamp.com/EmbeddedPlayer/album=1589755408/size=large/bgcol=333333/linkcol=ffffff/artwork=small/transparent=true/" seamless><a href="http://jesseengel.bandcamp.com/album/laptop-love-2">Laptop Love by Jesse Engel</a></iframe>
+<div class="wrapper">
+    <div class="h_iframe">
+        <!-- a transparent image is preferable -->
+        <img class="ratio" src="http://placehold.it/16x9"/>
+        <iframe style="border: 0;" src="https://bandcamp.com/EmbeddedPlayer/album=1589755408/size=large/bgcol=333333/linkcol=ffffff/artwork=small/transparent=true/" seamless><a href="http://jesseengel.bandcamp.com/album/laptop-love-2">Laptop Love by Jesse Engel</a></iframe>
+    </div>
+</div>
 
 ### Kid Akimbo
 
