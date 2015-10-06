@@ -23,6 +23,22 @@ For now, just a list of some music I've made over the years.
 # Grad School
 
 ### The Llamas 
+![With the Dalai](/assets/dalai-lama-bear.jpg)
+
+<div class="wrapper">
+    <div class="h_iframe">
+        <!-- a transparent image is preferable -->
+        <img class="ratio" src="http://placehold.it/16x9"/>
+          <iframe 
+          src="https://www.youtube.com/embed/fHJG41Q2VjY?start=5298" 
+          frameborder="0" 
+          allowfullscreen>
+          </iframe>
+    </div>
+</div>
+
+
+<iframe style="border: 0; width: 100%; height: 280px;" src="http://bandcamp.com/EmbeddedPlayer/album=2717871358/size=large/bgcol=333333/linkcol=ffffff/artwork=small/transparent=true/" seamless><a href="http://thellamas.bandcamp.com/album/the-llamas">The Llamas by The Llamas</a></iframe>
 
 ### Brainbow
 
@@ -30,6 +46,34 @@ For now, just a list of some music I've made over the years.
 <iframe style="border: 0; width: 100%; height: 280px;" src="https://bandcamp.com/EmbeddedPlayer/album=1589755408/size=large/bgcol=333333/linkcol=ffffff/artwork=small/transparent=true/" seamless><a href="http://jesseengel.bandcamp.com/album/laptop-love-2">Laptop Love by Jesse Engel</a></iframe>
 
 ### Kid Akimbo
+
+<div class="wrapper">
+    <div class="h_iframe">
+        <!-- a transparent image is preferable -->
+        <img class="ratio" src="http://placehold.it/16x9"/>
+          <iframe 
+          src="https://www.youtube.com/embed/4Tt_PW1hPh4" 
+          frameborder="0" 
+          allowfullscreen>
+          </iframe>
+    </div>
+</div>
+
+<div class="wrapper">
+    <div class="h_iframe">
+        <!-- a transparent image is preferable -->
+        <img class="ratio" src="http://placehold.it/16x9"/>
+          <iframe 
+          src="https://www.youtube.com/embed/trj6TsnZfqE" 
+          frameborder="0" 
+          allowfullscreen>
+          </iframe>
+    </div>
+</div>
+
+
+<!-- <embed src="http://media.mtvnservices.com/mgid:uma:video:mtv.com:521296/cp~vid%3D521296%26uri%3Dmgid%3Auma%3Avideo%3Amtv.com%3A521296" width="100%" height="288" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" base="."></embed>
+ -->
 
 ### Charlie Broten
 
