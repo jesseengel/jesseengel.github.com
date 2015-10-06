@@ -13,7 +13,10 @@
         <div class="container">
           <h3 class="masthead-title">
             <a href="/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
+            <small>{{ site.tagline }}</small><br>
+            {% for page in site.pages_list %}
+            <small><a href="{{ page[1]  }}">{{ page[0] }}&nbsp;&nbsp;</a></small>
+            {% endfor %}
           </h3>
         </div>
       </div>
