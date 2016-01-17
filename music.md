@@ -10,7 +10,7 @@ For now, just a list of some music I've made over the years.
 # Projects
 
 * Memristor Guitar Effect
-* Timestretch Looper 
+* [Timestretch Looper](http://www.maxforlive.com/library/device/1440/timestretch-looper) 
 * Crystal Gamelan
 * Continuous Keyboard
 
@@ -75,7 +75,17 @@ For now, just a list of some music I've made over the years.
 <!-- <embed src="http://media.mtvnservices.com/mgid:uma:video:mtv.com:521296/cp~vid%3D521296%26uri%3Dmgid%3Auma%3Avideo%3Amtv.com%3A521296" width="100%" height="288" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" base="."></embed>
  -->
 
-### Charlie Broten
+### [Charlie Broten](http://www.charliebroten.com/nick-and-charlie-s-cd)
+<div class="wrapper">
+    <div class="h_iframe">
+        <!-- a transparent image is preferable -->
+        <img class="ratio" src="http://placehold.it/16x9"/>
+        <iframe src="https://www.youtube.com/embed/wKeaDQh2QJE?list=PLtqki71Lub36CHm688Kyw36izMSDzDuzb" 
+        frameborder="0" 
+        allowfullscreen></iframe>
+    </div>
+</div>
+
 
 ### Jennifer Johns
 

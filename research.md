@@ -19,6 +19,11 @@ Here's a list of my work, which you can also find on my [Google Scholar](https:/
 
 # Baidu Research
 
+### Publications
+1. Baidu Silicon Valley AI Lab; **Engel, J. H.**; "Deep Speech 2: End-to-End Speech Recognition in English and Mandarin", *ArXiv:1512.02595*, **2015**.
+
+### Conference Presentations
+1. **Engel, J. H.**, Sengupta S., Baidu Silicon Valley AI Lab; "Deep Speech 2: End-to-End Speech Recognition in English and Mandarin", *Neural Information Proccesing Systems*, **2015**.
 
 # Postdoc
 
